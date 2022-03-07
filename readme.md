@@ -11,7 +11,8 @@ In this paper, then, we describe a few approaches that are being developed, incl
 ## what is data warehouse ?
 
 
-**Data warehouse modeling is the process of building a model for the data that is to be stored in the data warehouse. The model produced is an abstract model, and in this sense, it is a representation of reality, or at least a part of reality which the data warehouse is assumed to support.** A Data Warehouse (DW) is a relational database that is designed for query and analysis rather than transaction processing. It includes historical data derived from transaction data from single and multiple sources. A Data Warehouse provides integrated, enterprise-wide, historical data and focuses on providing support for decision-makers for data modeling and analysis. It is process for collecting and managing data from varied sources to provide meaningful business insights. A Data warehouse is typically used to connect and analyze business data from heterogeneous sources. The data warehouse is the core of the BI system which is built for data analysis and reporting. It is a blend of technologies and components which aids the strategic use of data. It is electronic storage of a large amount of information by a business which is designed for query and analysis instead of transaction processing. It is a process of transforming data into information and making it available to users in a timely manner to make a difference.
+**Data Warehouse modeling is the process of building a model for the data that is to be stored in the data warehouse. The model produced is an abstract model, and in this sense, it is a representation of reality, or at least a part of reality which the data warehouse is assumed to support.** Data Warehouse (DW) is a relational database that is designed for query and analysis rather than transaction processing. It includes historical data derived from transaction data from single and multiple sources. A Data Warehouse provides integrated, enterprise-wide, historical data and focuses on providing support for decision-makers for data modeling and analysis. It is process for collecting and managing data from varied sources to provide meaningful business insights.
+A Data Warehouse is typically used to connect and analyze business data from heterogeneous sources. The data warehouse is the core of the BI system which is built for data analysis and reporting. It is a blend of technologies and components which aids the strategic use of data. It is electronic storage of a large amount of information by a business which is designed for query and analysis instead of transaction processing. It is a process of transforming data into information and making it available to users in a timely manner to make a difference.
 A Data Warehouse can be viewed as a data system with the following attributes:
 * It is a database designed for investigative tasks, using data from various applications.
 * It supports a relatively small number of clients with relatively long interactions.
@@ -21,12 +22,12 @@ A Data Warehouse can be viewed as a data system with the following attributes:
 "Data Warehouse is a subject-oriented, integrated, and time-variant store of information in support of management's decisions."
 
 
-## data warehousing 
+## Data Warehousing 
 
-- Data warehousing is the act of **Organizing** & **Storing** data in a way so as to make its retrieval efficient and insightful.
+- Data Warehousing is the act of **Organizing** & **Storing** data in a way so as to make its retrieval efficient and insightful.
 - It's also called as the process of transforming **data** into **information** 
 
-Data warehousing implements **the process to access heterogeneous data sources, clean, filter, and transform the data and store the data in a structure that is easy to access, understand, and use**. The data is then used for query,reporting, and data analysis. As such, the access, use, technology, and performance requirements are completely different from those in a transaction-oriented operational environment. The volume of data in data warehousing can be very high.
+Data Warehousing implements **the process to access heterogeneous data sources, clean, filter, and transform the data and store the data in a structure that is easy to access, understand, and use**. The data is then used for query,reporting, and data analysis. As such, the access, use, technology, and performance requirements are completely different from those in a transaction-oriented operational environment. The volume of data in data warehousing can be very high.
 
 
 # Architecture of Data Warehouse
@@ -43,15 +44,14 @@ is the practice of analysing the big data present in datawarehouse is data minin
 This approach is defined by Inmon as datawarehouse as a central repository for the complete organisation and data marts are created from it after the complete datawarehouse has been created. 
 
 
-# How Datawarehouse works?
+# How Data Warehouse works?
 A Data Warehouse works as a central repository where information arrives from one or more data sources. Data flows into a data warehouse from the transactional system and other relational databases.
 
 * Structured
 * Semi-structured
 * Unstructured data
 
-The data is processed, transformed, and ingested so that users can access the processed data in the Data Warehouse through Business Intelligence tools, SQL clients, and spreadsheets. A data warehouse merges information coming from different sources into one comprehensive database.
-By merging all of this information in one place, an organization can analyze its customers more holistically. This helps to ensure that it has considered all the information available. Data warehousing makes data mining possible. Data mining is looking for patterns in the data that may lead to higher sales and profits.
+The data is processed, transformed, and ingested so that users can access the processed data in the Data Warehouse through Business Intelligence tools, SQL clients, and spreadsheets. A data warehouse merges information coming from different sources into one comprehensive database. By merging all of this information in one place, an organization can analyze its customers more holistically. This helps to ensure that it has considered all the information available. Data warehousing makes data mining possible. Data mining is looking for patterns in the data that may lead to higher sales and profits.
 
 
 
