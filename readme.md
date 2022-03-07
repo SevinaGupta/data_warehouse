@@ -14,7 +14,7 @@ In this paper, then, we describe a few approaches that are being developed, incl
 ## what is data warehouse ?
 
 
->**Data warehouse modeling is the process of building a model for the data that is to be stored in the data warehouse. The model produced is an abstract model, and in this sense, it is a representation of reality, or at least a part of reality which the data warehouse is assumed to support.** A Data Warehouse (DW) is a relational database that is designed for query and analysis rather than transaction processing. It includes historical data derived from transaction data from single and multiple sources. A Data Warehouse provides integrated, enterprise-wide, historical data and focuses on providing support for decision-makers for data modeling and analysis. 
+**Data warehouse modeling is the process of building a model for the data that is to be stored in the data warehouse. The model produced is an abstract model, and in this sense, it is a representation of reality, or at least a part of reality which the data warehouse is assumed to support.** A Data Warehouse (DW) is a relational database that is designed for query and analysis rather than transaction processing. It includes historical data derived from transaction data from single and multiple sources. A Data Warehouse provides integrated, enterprise-wide, historical data and focuses on providing support for decision-makers for data modeling and analysis. 
 A Data Warehouse can be viewed as a data system with the following attributes:
 * It is a database designed for investigative tasks, using data from various applications.
 * It supports a relatively small number of clients with relatively long interactions.
@@ -74,5 +74,8 @@ Data house is not new phenomenon. All large organization already have data wareh
 
 1. https://www.youtube.com/watch?v=CHYPF7jxlik&t=355s
 
+1. https://www.slideshare.net/KarthikSrini2/data-warehousing-71815590
+
 1. https://www.researchgate.net/profile/Deepak-Sharma-119/publication/358675111_A_Study_on_Inventory_Management_System_A_Case_Study_of_Hindustan_Aeronautics_Limited_HAL_Nashik/links/620e8f4bf02286737ca61984/A-Study-on-Inventory-Management-System-A-Case-Study-of-Hindustan-Aeronautics-Limited-HAL-Nashik.pdf#page=41
+
 
