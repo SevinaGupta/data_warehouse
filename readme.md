@@ -72,19 +72,19 @@ obvious.
 
 There are many Data Warehousing tools are available in the market:
 
-*MarkLogic:*
+**MarkLogic:**
 
 MarkLogic is useful data warehousing solution that makes data integration easier and faster using an array of enterprise features. This tool helps to perform very complex search operations. It can query different types of data like documents, relationships, and metadata.
 
 https://www.marklogic.com/product/getting-started/
 
-*Oracle:*
+**Oracle:**
 
 Oracle is the industry-leading database. It offers a wide range of choice of data warehouse solutions for both on-premises and in the cloud. It helps to optimize customer experiences by increasing operational efficiency.
 
 https://www.oracle.com/index.html
 
-*Amazon RedShift:*
+**Amazon RedShift:**
 
 Amazon Redshift is Data warehouse tool. It is a simple and cost-effective tool to analyze all types of data using standard SQL and existing BI tools. It also allows running complex queries against petabytes of structured data, using the technique of query optimization.
 
